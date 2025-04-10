@@ -21,3 +21,6 @@
 [2025-04-10 02:54:27] [/workspaces/CS190---ICE1] date
 [2025-04-10 02:54:57] [/workspaces/CS190---ICE1] echo $HOME
 [2025-04-10 02:55:03] [/workspaces/CS190---ICE1] date
+[2025-04-10 02:55:57] [/workspaces/CS190---ICE1] echo $PATH
+[2025-04-10 02:56:17] [/workspaces/CS190---ICE1] date
+[2025-04-10 02:56:56] [/workspaces/CS190---ICE1] echo $HOME
