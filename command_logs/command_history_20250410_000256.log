@@ -1,0 +1,4 @@
+[2025-04-10 00:02:56] [/workspaces/CS190---ICE1] source .devcontainer/shell.sh
+[2025-04-10 00:03:14] [/workspaces/CS190---ICE1] ls -a /
+[2025-04-10 00:03:21] [/workspaces/CS190---ICE1] ls --all /
+[2025-04-10 00:04:31] [/workspaces/CS190---ICE1] man ls
