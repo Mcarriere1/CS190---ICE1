@@ -5,3 +5,13 @@
 [2025-04-10 02:41:44] [/workspaces/CS190---ICE1] echo print $HOME
 [2025-04-10 02:42:13] [/workspaces/CS190---ICE1] man echo
 [2025-04-10 02:42:26] [/workspaces/CS190---ICE1] man $HOME
+[2025-04-10 02:45:06] [/workspaces/CS190---ICE1] echo HOME
+[2025-04-10 02:45:15] [/workspaces/CS190---ICE1] echo %HOME%
+[2025-04-10 02:45:21] [/workspaces/CS190---ICE1] echo %HOME
+[2025-04-10 02:45:34] [/workspaces/CS190---ICE1] echo $home
+[2025-04-10 02:47:33] [/workspaces/CS190---ICE1] dir
+[2025-04-10 02:47:42] [/workspaces/CS190---ICE1] up
+[2025-04-10 02:47:45] [/workspaces/CS190---ICE1] help
+[2025-04-10 02:49:13] [/workspaces/CS190---ICE1] echo "Home directory: $HOME"
+[2025-04-10 02:49:28] [/workspaces/CS190---ICE1] echo home
+[2025-04-10 02:49:35] [/workspaces/CS190---ICE1] echo hello

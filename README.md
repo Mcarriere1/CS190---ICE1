@@ -28,7 +28,7 @@ What program can be used to compress files?
 # Part 4 Environment Variables
 Use echo to print out your $HOME and $PATH variables
 What value is your $HOME variable set to?
-**[Your answer here]**
+**[/home/codespace]**
 
 # Part 5 History
 Type the `history` command to see your command history. Repeat your last command with `!!`  
